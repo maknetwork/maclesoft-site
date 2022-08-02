@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://maclesoft.com
+
+# Sitemaps
+Sitemap: https://maclesoft.com/sitemap.xml
